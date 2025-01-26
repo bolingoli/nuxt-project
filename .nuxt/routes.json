@@ -1,0 +1,32 @@
+[
+  {
+    "name": "inspire",
+    "path": "/inspire",
+    "component": "C:\\\\Users\\\\omerb\\\\Dropbox\\\\PC\\\\Downloads\\\\kitapyurdu-nuxt\\\\kitapyurdu-nuxt\\\\test-project\\\\pages\\\\inspire.vue",
+    "chunkName": "pages/inspire"
+  },
+  {
+    "name": "Login",
+    "path": "/Login",
+    "component": "C:\\\\Users\\\\omerb\\\\Dropbox\\\\PC\\\\Downloads\\\\kitapyurdu-nuxt\\\\kitapyurdu-nuxt\\\\test-project\\\\pages\\\\Login.vue",
+    "chunkName": "pages/Login"
+  },
+  {
+    "name": "Register",
+    "path": "/Register",
+    "component": "C:\\\\Users\\\\omerb\\\\Dropbox\\\\PC\\\\Downloads\\\\kitapyurdu-nuxt\\\\kitapyurdu-nuxt\\\\test-project\\\\pages\\\\Register.vue",
+    "chunkName": "pages/Register"
+  },
+  {
+    "name": "Details-details",
+    "path": "/Details/:details?",
+    "component": "C:\\\\Users\\\\omerb\\\\Dropbox\\\\PC\\\\Downloads\\\\kitapyurdu-nuxt\\\\kitapyurdu-nuxt\\\\test-project\\\\pages\\\\Details\\\\_details.vue",
+    "chunkName": "pages/Details/_details"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\omerb\\\\Dropbox\\\\PC\\\\Downloads\\\\kitapyurdu-nuxt\\\\kitapyurdu-nuxt\\\\test-project\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]

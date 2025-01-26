@@ -1,0 +1,121 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Navbar.vue Snapshot property  1`] = `
+"<v-sheet-stub tag=\\"div\\">
+  <v-app-bar-stub color=\\"black\\" tag=\\"header\\" dense=\\"true\\" extensionheight=\\"48\\" src=\\"\\" value=\\"true\\">
+    <v-toolbar-items-stub tag=\\"div\\" class=\\"white--text\\">
+      <v-btn-stub tag=\\"button\\" activeclass=\\"\\" to=\\"Login\\" type=\\"button\\" style=\\"background-color: orange; box-shadow: none;\\">
+        Giriş Yap
+      </v-btn-stub>
+    </v-toolbar-items-stub>
+    <v-toolbar-items-stub tag=\\"div\\">
+      <v-btn-stub tag=\\"button\\" activeclass=\\"\\" to=\\"Register\\" type=\\"button\\" class=\\"mr-5 white--text\\" style=\\"background-color: black; border-color: transparent; box-shadow: none;\\">
+        Üye ol
+      </v-btn-stub>
+    </v-toolbar-items-stub>
+    <v-spacer-stub tag=\\"div\\"></v-spacer-stub>
+    <v-menu-stub opendelay=\\"0\\" closedelay=\\"0\\" openonclick=\\"true\\" contentclass=\\"\\" maxwidth=\\"auto\\" nudgebottom=\\"0\\" nudgeleft=\\"0\\" nudgeright=\\"0\\" nudgetop=\\"0\\" nudgewidth=\\"0\\" closeonclick=\\"true\\" closeoncontentclick=\\"true\\" maxheight=\\"auto\\" offsety=\\"true\\" origin=\\"top left\\" transition=\\"v-menu-transition\\">
+      <v-list-stub tag=\\"div\\">
+        <v-list-item-stub activeclass=\\"\\" tag=\\"div\\">
+          <v-list-item-title-stub tag=\\"div\\">Favorilerim</v-list-item-title-stub>
+        </v-list-item-stub>
+        <v-list-item-stub activeclass=\\"\\" tag=\\"div\\">
+          <v-list-item-title-stub tag=\\"div\\">Alışveriş Listem</v-list-item-title-stub>
+        </v-list-item-stub>
+        <v-list-item-stub activeclass=\\"\\" tag=\\"div\\">
+          <v-list-item-title-stub tag=\\"div\\">Okuma Listelerim</v-list-item-title-stub>
+        </v-list-item-stub>
+        <v-list-item-stub activeclass=\\"\\" tag=\\"div\\">
+          <v-list-item-title-stub tag=\\"div\\">Uyarım Listem</v-list-item-title-stub>
+        </v-list-item-stub>
+        <v-list-item-stub activeclass=\\"\\" tag=\\"div\\">
+          <v-list-item-title-stub tag=\\"div\\">Satın Aldıklarım</v-list-item-title-stub>
+        </v-list-item-stub>
+      </v-list-stub>
+    </v-menu-stub>
+    <v-menu-stub opendelay=\\"0\\" closedelay=\\"0\\" openonclick=\\"true\\" contentclass=\\"\\" maxwidth=\\"auto\\" nudgebottom=\\"0\\" nudgeleft=\\"0\\" nudgeright=\\"0\\" nudgetop=\\"0\\" nudgewidth=\\"0\\" closeonclick=\\"true\\" closeoncontentclick=\\"true\\" maxheight=\\"auto\\" offsety=\\"true\\" origin=\\"top left\\" transition=\\"v-menu-transition\\">
+      <v-list-stub tag=\\"div\\">
+        <v-list-item-stub activeclass=\\"\\" tag=\\"div\\">
+          <v-list-item-title-stub tag=\\"div\\">Şiparişlerim</v-list-item-title-stub>
+        </v-list-item-stub>
+        <v-list-item-stub activeclass=\\"\\" tag=\\"div\\">
+          <v-list-item-title-stub tag=\\"div\\">Müşteri Hizmetler</v-list-item-title-stub>
+        </v-list-item-stub>
+        <v-list-item-stub activeclass=\\"\\" tag=\\"div\\">
+          <v-list-item-title-stub tag=\\"div\\">Havale/EFT</v-list-item-title-stub>
+        </v-list-item-stub>
+      </v-list-stub>
+    </v-menu-stub>
+    <v-menu-stub opendelay=\\"0\\" closedelay=\\"0\\" openonclick=\\"true\\" contentclass=\\"\\" maxwidth=\\"auto\\" nudgebottom=\\"0\\" nudgeleft=\\"0\\" nudgeright=\\"0\\" nudgetop=\\"0\\" nudgewidth=\\"0\\" closeonclick=\\"true\\" closeoncontentclick=\\"true\\" maxheight=\\"auto\\" offsety=\\"true\\" origin=\\"top left\\" transition=\\"v-menu-transition\\">
+      <v-list-stub tag=\\"div\\">
+        <v-list-item-stub activeclass=\\"\\" tag=\\"div\\">
+          <v-list-item-title-stub tag=\\"div\\">Türkçe</v-list-item-title-stub>
+        </v-list-item-stub>
+        <v-list-item-stub activeclass=\\"\\" tag=\\"div\\">
+          <v-list-item-title-stub tag=\\"div\\">English</v-list-item-title-stub>
+        </v-list-item-stub>
+        <v-list-item-stub activeclass=\\"\\" tag=\\"div\\">
+          <v-list-item-title-stub tag=\\"div\\">Deutsch</v-list-item-title-stub>
+        </v-list-item-stub>
+      </v-list-stub>
+    </v-menu-stub>
+    <v-menu-stub opendelay=\\"0\\" closedelay=\\"0\\" openonclick=\\"true\\" contentclass=\\"\\" maxwidth=\\"auto\\" nudgebottom=\\"0\\" nudgeleft=\\"0\\" nudgeright=\\"0\\" nudgetop=\\"0\\" nudgewidth=\\"0\\" closeonclick=\\"true\\" closeoncontentclick=\\"true\\" maxheight=\\"auto\\" offsety=\\"true\\" origin=\\"top left\\" transition=\\"v-menu-transition\\">
+      <v-list-stub tag=\\"div\\">
+        <v-list-item-stub activeclass=\\"\\" tag=\\"div\\">
+          <v-list-item-title-stub tag=\\"div\\">TL</v-list-item-title-stub>
+        </v-list-item-stub>
+        <v-list-item-stub activeclass=\\"\\" tag=\\"div\\">
+          <v-list-item-title-stub tag=\\"div\\">EUR</v-list-item-title-stub>
+        </v-list-item-stub>
+        <v-list-item-stub activeclass=\\"\\" tag=\\"div\\">
+          <v-list-item-title-stub tag=\\"div\\">GBP</v-list-item-title-stub>
+        </v-list-item-stub>
+        <v-list-item-stub activeclass=\\"\\" tag=\\"div\\">
+          <v-list-item-title-stub tag=\\"div\\">USD</v-list-item-title-stub>
+        </v-list-item-stub>
+      </v-list-stub>
+    </v-menu-stub>
+    <v-menu-stub opendelay=\\"0\\" closedelay=\\"0\\" openonclick=\\"true\\" contentclass=\\"\\" maxwidth=\\"auto\\" nudgebottom=\\"0\\" nudgeleft=\\"0\\" nudgeright=\\"0\\" nudgetop=\\"0\\" nudgewidth=\\"0\\" closeonclick=\\"true\\" closeoncontentclick=\\"true\\" maxheight=\\"auto\\" offsety=\\"true\\" origin=\\"top left\\" transition=\\"v-menu-transition\\">
+      <v-list-stub tag=\\"div\\">
+        <v-list-item-stub activeclass=\\"\\" tag=\\"div\\" menu-props=\\"[object Object]\\">
+          <v-list-item-title-stub tag=\\"div\\">Yardım ve İşlem Rehberi</v-list-item-title-stub>
+        </v-list-item-stub>
+        <v-list-item-stub activeclass=\\"\\" tag=\\"div\\" menu-props=\\"[object Object]\\">
+          <v-list-item-title-stub tag=\\"div\\">Sıkça Sorulan Sorular</v-list-item-title-stub>
+        </v-list-item-stub>
+        <v-list-item-stub activeclass=\\"\\" tag=\\"div\\" menu-props=\\"[object Object]\\">
+          <v-list-item-title-stub tag=\\"div\\">Video Yardım</v-list-item-title-stub>
+        </v-list-item-stub>
+        <v-list-item-stub activeclass=\\"\\" tag=\\"div\\" menu-props=\\"[object Object]\\">
+          <v-list-item-title-stub tag=\\"div\\">Önerim Var</v-list-item-title-stub>
+        </v-list-item-stub>
+        <v-list-item-stub activeclass=\\"\\" tag=\\"div\\" menu-props=\\"[object Object]\\">
+          <v-list-item-title-stub tag=\\"div\\">İletişim</v-list-item-title-stub>
+        </v-list-item-stub>
+      </v-list-stub>
+    </v-menu-stub>
+  </v-app-bar-stub>
+  <div>
+    <v-app-bar-stub color=\\"white\\" tag=\\"header\\" extensionheight=\\"48\\" src=\\"\\" value=\\"true\\">
+      <v-toolbar-title-stub tag=\\"div\\" to=\\"/\\" class=\\"green--text\\" style=\\"font-weight: bold;\\">
+        <nuxtlink to=\\"/\\" class=\\"green--text\\" style=\\"font-weight: bold; text-decoration: none;\\">
+          Kitapyurdu.com
+        </nuxtlink>
+      </v-toolbar-title-stub>
+      <v-spacer-stub tag=\\"div\\"></v-spacer-stub>
+      <v-text-field-stub errorcount=\\"1\\" errormessages=\\"\\" messages=\\"\\" rules=\\"\\" successmessages=\\"\\" backgroundcolor=\\"\\" dense=\\"true\\" loaderheight=\\"2\\" clearicon=\\"$clear\\" placeholder=\\"kitap adı,yazar veya yayın evi\\" solo=\\"true\\" type=\\"text\\" style=\\"margin-top: 25px;\\"></v-text-field-stub>
+      <v-btn-stub tag=\\"button\\" activeclass=\\"\\" to=\\"ProductFiltering\\" type=\\"button\\" style=\\"background-color: orange;\\">
+        <v-icon-stub>mdi-magnify </v-icon-stub>
+      </v-btn-stub>
+      <v-spacer-stub tag=\\"div\\"></v-spacer-stub>
+      <div class=\\"text-center\\">
+        <v-menu-stub opendelay=\\"0\\" closedelay=\\"0\\" openonclick=\\"true\\" contentclass=\\"\\" maxwidth=\\"auto\\" nudgebottom=\\"0\\" nudgeleft=\\"0\\" nudgeright=\\"0\\" nudgetop=\\"0\\" nudgewidth=\\"0\\" closeonclick=\\"true\\" closeoncontentclick=\\"true\\" maxheight=\\"auto\\" offsety=\\"true\\" origin=\\"top left\\" transition=\\"v-menu-transition\\">
+          <v-card-stub loaderheight=\\"4\\" tag=\\"div\\" style=\\"width: 400px;\\">
+            <div></div>
+          </v-card-stub>
+        </v-menu-stub>
+      </div>
+    </v-app-bar-stub>
+  </div>
+</v-sheet-stub>"
+`;

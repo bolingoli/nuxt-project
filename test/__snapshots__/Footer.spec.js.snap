@@ -1,0 +1,153 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Footer.vue Snapshot property  1`] = `
+"<v-card-stub loaderheight=\\"4\\" tag=\\"div\\" height=\\"600px\\" width=\\"100%\\">
+  <v-footer-stub height=\\"auto\\" tag=\\"footer\\" class=\\"lighten-1\\">
+    <v-card-stub loaderheight=\\"4\\" tag=\\"div\\" width=\\"100%\\" tile=\\"true\\" flat=\\"true\\" class=\\"lighten-1 \\">
+      <v-card-text-stub tag=\\"div\\">
+        <v-row-stub tag=\\"div\\" class=\\"space-between\\">
+          <v-col-stub tag=\\"div\\">
+            Mobil Uygulamalar
+            <v-btn-stub tag=\\"button\\" activeclass=\\"\\" xsmall=\\"true\\" type=\\"button\\" class=\\"white--text mx-4\\" style=\\"background-color: black;\\">
+              App Store'dan
+            </v-btn-stub>
+            <v-btn-stub tag=\\"button\\" activeclass=\\"\\" xsmall=\\"true\\" type=\\"button\\" class=\\"white--text mx-4\\" style=\\"background-color: black;\\">
+              Google Play
+            </v-btn-stub>
+            <v-btn-stub tag=\\"button\\" activeclass=\\"\\" xsmall=\\"true\\" type=\\"button\\" class=\\"white--text mx-4\\" style=\\"background-color: black;\\">
+              AppGalery
+            </v-btn-stub>
+          </v-col-stub>
+          <v-col-stub tag=\\"div\\" class=\\"text-right colors\\">
+            Sosyal Medya:
+            <v-btn-stub color=\\"primary\\" tag=\\"button\\" activeclass=\\"\\" icon=\\"true\\" type=\\"button\\" class=\\"mx-4\\">
+              <v-icon-stub size=\\"24px\\">
+                mdi-facebook
+              </v-icon-stub>
+            </v-btn-stub>
+            <v-btn-stub color=\\"primary\\" tag=\\"button\\" activeclass=\\"\\" icon=\\"true\\" type=\\"button\\" class=\\"mx-4\\">
+              <v-icon-stub size=\\"24px\\">
+                mdi-twitter
+              </v-icon-stub>
+            </v-btn-stub>
+            <v-btn-stub color=\\"primary\\" tag=\\"button\\" activeclass=\\"\\" icon=\\"true\\" type=\\"button\\" class=\\"mx-4\\">
+              <v-icon-stub size=\\"24px\\">
+                mdi-youtube
+              </v-icon-stub>
+            </v-btn-stub>
+            <v-btn-stub color=\\"primary\\" tag=\\"button\\" activeclass=\\"\\" icon=\\"true\\" type=\\"button\\" class=\\"mx-4\\">
+              <v-icon-stub size=\\"24px\\">
+                mdi-instagram
+              </v-icon-stub>
+            </v-btn-stub>
+          </v-col-stub>
+        </v-row-stub>
+      </v-card-text-stub>
+    </v-card-stub>
+  </v-footer-stub>
+  <v-row-stub tag=\\"div\\" class=\\"text-center\\" style=\\"margin-top: 10px;\\">
+    <v-col-stub tag=\\"div\\">
+      Yardımcı Sayfalar:
+      <v-col-stub tag=\\"div\\" class=\\"font\\">
+        Yardım ve İşlem Rehberi
+      </v-col-stub>
+      <v-col-stub tag=\\"div\\" class=\\"font\\">
+        Video Yardım
+      </v-col-stub>
+      <v-col-stub tag=\\"div\\" class=\\"font\\">
+        Havale/EFT Bilgileri
+      </v-col-stub>
+      <v-col-stub tag=\\"div\\" class=\\"font\\">
+        Müşteri Hizmetleri
+      </v-col-stub>
+      <v-col-stub tag=\\"div\\" class=\\"font\\">
+        Ürün İadesi
+      </v-col-stub>
+    </v-col-stub>
+    <v-col-stub tag=\\"div\\">
+      Popüler Sayfalar:
+      <v-col-stub tag=\\"div\\" class=\\"font\\">
+        Çok Satan Kitaplar
+      </v-col-stub>
+      <v-col-stub tag=\\"div\\" class=\\"font\\">
+        Yeni Çıkan Kitaplar
+      </v-col-stub>
+      <v-col-stub tag=\\"div\\" class=\\"font\\">
+        Kargo Ödeyen Avantajlı Ürünler
+      </v-col-stub>
+      <v-col-stub tag=\\"div\\" class=\\"font\\">
+        Kampanyalar
+      </v-col-stub>
+      <v-col-stub tag=\\"div\\" class=\\"font\\">
+        Ayın Yazarları
+      </v-col-stub>
+      <v-col-stub tag=\\"div\\" class=\\"font\\">
+        Ayın Yayınevleri
+      </v-col-stub>
+      <v-col-stub tag=\\"div\\" class=\\"font\\">
+        Puan Kataloğu
+      </v-col-stub>
+      <v-col-stub tag=\\"div\\" class=\\"font\\">
+        E-Dergi
+      </v-col-stub>
+      <v-col-stub tag=\\"div\\" class=\\"font\\">
+        Yazarlar Ne okuyor?
+      </v-col-stub>
+      <v-col-stub tag=\\"div\\" class=\\"font\\">
+        Ne okusam
+      </v-col-stub>
+    </v-col-stub>
+    <v-col-stub tag=\\"div\\">
+      Özel Sayfalar:
+      <v-col-stub tag=\\"div\\" class=\\"font\\">
+        Sınav Kitapları
+      </v-col-stub>
+      <v-col-stub tag=\\"div\\" class=\\"font\\">
+        Çocuk Kitapları
+      </v-col-stub>
+      <v-col-stub tag=\\"div\\" class=\\"font\\">
+        Cep Boy Kitaplar
+      </v-col-stub>
+      <v-col-stub tag=\\"div\\" class=\\"font\\">
+        İngilizce Kitaplar
+      </v-col-stub>
+      <v-col-stub tag=\\"div\\" class=\\"font\\">
+        Lisanslı Ürünler
+      </v-col-stub>
+      <v-col-stub tag=\\"div\\" class=\\"font\\">
+        Bookinzi Kültür-Sanat Ürünleri
+      </v-col-stub>
+      <v-col-stub tag=\\"div\\" class=\\"font\\">
+        Oyundan Daha Fazlası
+      </v-col-stub>
+      <v-col-stub tag=\\"div\\" class=\\"font\\">
+        Montessori Oyuncakları
+      </v-col-stub>
+      <v-col-stub tag=\\"div\\" class=\\"font\\">
+        Ahşap Puzzle
+      </v-col-stub>
+      <v-col-stub tag=\\"div\\" class=\\"font\\">
+        Akıl Defteri
+      </v-col-stub>
+    </v-col-stub>
+    <v-col-stub tag=\\"div\\">
+      Kitapyurdu Platformları:
+      <v-col-stub tag=\\"div\\" class=\\"font\\">
+        Kitapyurdu Sesli Kitap
+      </v-col-stub>
+      <v-col-stub tag=\\"div\\" class=\\"font\\">
+        KDY Platformu
+      </v-col-stub>
+      <v-col-stub tag=\\"div\\" class=\\"font\\">
+        KDD Platformu
+      </v-col-stub>
+      <v-col-stub tag=\\"div\\" class=\\"font\\">
+        Kütüphanem Uygulaması
+      </v-col-stub>
+      <v-col-stub tag=\\"div\\" class=\\"font\\">
+        Kitap Kurdu Eklentisi
+      </v-col-stub>
+    </v-col-stub>
+  </v-row-stub>
+</v-card-stub>"
+`;

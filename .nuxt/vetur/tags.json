@@ -1,0 +1,26 @@
+{
+  "BookCarousel": {
+    "description": "Auto imported from components/BookCarousel.vue"
+  },
+  "BookDetails": {
+    "description": "Auto imported from components/BookDetails.vue"
+  },
+  "Card": {
+    "description": "Auto imported from components/Card.vue"
+  },
+  "Carousel": {
+    "description": "Auto imported from components/Carousel.vue"
+  },
+  "Categories": {
+    "description": "Auto imported from components/Categories.vue"
+  },
+  "Comment": {
+    "description": "Auto imported from components/Comment.vue"
+  },
+  "Footer": {
+    "description": "Auto imported from components/Footer.vue"
+  },
+  "Navbar": {
+    "description": "Auto imported from components/Navbar.vue"
+  }
+}

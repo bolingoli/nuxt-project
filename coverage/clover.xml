@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1642597018080" clover="3.2.0">
+  <project timestamp="1642597018080" name="All files">
+    <metrics statements="42" coveredstatements="8" conditionals="12" coveredconditionals="1" methods="24" coveredmethods="4" elements="78" coveredelements="13" complexity="0" loc="42" ncloc="42" packages="2" files="10" classes="10"/>
+    <package name="components">
+      <metrics statements="16" coveredstatements="8" conditionals="2" coveredconditionals="1" methods="9" coveredmethods="4"/>
+      <file name="BookCarousel.vue" path="C:\Users\mrtar\Desktop\test-project\test-project\components\BookCarousel.vue">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="53" count="0" type="stmt"/>
+      </file>
+      <file name="BookDetails.vue" path="C:\Users\mrtar\Desktop\test-project\test-project\components\BookDetails.vue">
+        <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="268" count="0" type="stmt"/>
+        <line num="275" count="0" type="stmt"/>
+        <line num="278" count="0" type="stmt"/>
+      </file>
+      <file name="Card.vue" path="C:\Users\mrtar\Desktop\test-project\test-project\components\Card.vue">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="51" count="0" type="stmt"/>
+      </file>
+      <file name="Carousel.vue" path="C:\Users\mrtar\Desktop\test-project\test-project\components\Carousel.vue">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="15" count="0" type="stmt"/>
+      </file>
+      <file name="Categories.vue" path="C:\Users\mrtar\Desktop\test-project\test-project\components\Categories.vue">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="55" count="0" type="stmt"/>
+      </file>
+      <file name="Comment.vue" path="C:\Users\mrtar\Desktop\test-project\test-project\components\Comment.vue">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="326" count="3" type="stmt"/>
+      </file>
+      <file name="Footer.vue" path="C:\Users\mrtar\Desktop\test-project\test-project\components\Footer.vue">
+        <metrics statements="7" coveredstatements="6" conditionals="2" coveredconditionals="1" methods="2" coveredmethods="2"/>
+        <line num="169" count="2" type="stmt"/>
+        <line num="192" count="2" type="stmt"/>
+        <line num="194" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="195" count="2" type="stmt"/>
+        <line num="196" count="2" type="stmt"/>
+        <line num="198" count="0" type="stmt"/>
+        <line num="200" count="2" type="stmt"/>
+      </file>
+      <file name="Navbar.vue" path="C:\Users\mrtar\Desktop\test-project\test-project\components\Navbar.vue">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="248" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="pages">
+      <metrics statements="26" coveredstatements="0" conditionals="10" coveredconditionals="0" methods="15" coveredmethods="0"/>
+      <file name="Login.vue" path="C:\Users\mrtar\Desktop\test-project\test-project\pages\Login.vue">
+        <metrics statements="15" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="8" coveredmethods="0"/>
+        <line num="120" count="0" type="stmt"/>
+        <line num="121" count="0" type="stmt"/>
+        <line num="122" count="0" type="stmt"/>
+        <line num="125" count="0" type="stmt"/>
+        <line num="128" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="133" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="143" count="0" type="stmt"/>
+        <line num="146" count="0" type="stmt"/>
+        <line num="147" count="0" type="stmt"/>
+        <line num="148" count="0" type="stmt"/>
+        <line num="152" count="0" type="stmt"/>
+        <line num="153" count="0" type="stmt"/>
+        <line num="157" count="0" type="stmt"/>
+        <line num="159" count="0" type="stmt"/>
+        <line num="160" count="0" type="stmt"/>
+      </file>
+      <file name="Register.vue" path="C:\Users\mrtar\Desktop\test-project\test-project\pages\Register.vue">
+        <metrics statements="11" coveredstatements="0" conditionals="6" coveredconditionals="0" methods="7" coveredmethods="0"/>
+        <line num="151" count="0" type="stmt"/>
+        <line num="152" count="0" type="stmt"/>
+        <line num="155" count="0" type="stmt"/>
+        <line num="163" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="168" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="174" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="183" count="0" type="stmt"/>
+        <line num="185" count="0" type="stmt"/>
+        <line num="186" count="0" type="stmt"/>
+        <line num="189" count="0" type="stmt"/>
+        <line num="190" count="0" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
