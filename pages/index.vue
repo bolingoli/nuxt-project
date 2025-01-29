@@ -13,11 +13,11 @@
     <br>
     <br>
     <br>
-    <Categories />
+     <Categories />
     <br>
     <br>
     <br>
-    <Footer />
+     <Footer />
   </div>
 </template>
 
