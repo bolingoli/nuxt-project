@@ -218,7 +218,7 @@
                         class="my-1"
                         style="font-size: small;"
                       >
-                        Kazancınız: 5,25
+                        Kazancınız: 5.25
                       </p>
                       <p
                         class="my-1"
