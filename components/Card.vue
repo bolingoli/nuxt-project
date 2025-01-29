@@ -11,7 +11,7 @@
           <div class="d-flex flex-no-wrap justify-space-between">
             <v-avatar
               class="ma-3"
-              size="60"
+              size="80"
               tile
             >
               <v-img :src="item.src" contain />
