@@ -6,7 +6,7 @@
       :src="item.src"
       reverse-transition="fade-transition"
       transition="fade-transition"
-      contain
+       contain
     />
   </v-carousel>
 </template>
